@@ -13,7 +13,7 @@ const Hero = () => {
                 </div>
             </div>
             <div className='hidden md:flex p-5'>
-                <img className='w-[400px] h-[300px] border-8 border-gray-500' src="https://i.imgur.com/TS7B1ai.png" alt="Plantillas de finanzas personales" />
+                <img className='w-[400px] h-[300px] border-8 border-gray-500' src="https://i.imgur.com/0kUKnnF.jpg" alt="Plantillas de finanzas personales" />
             </div>
         </div>
     </div>

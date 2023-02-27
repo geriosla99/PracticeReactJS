@@ -19,49 +19,49 @@ export const Products = () => {
       </div>
       <div className='products grid xl:grid-cols-4 grid-cols-2 md:grid-cols-3 gap-4 justify-content-center'>
         <div className='products h-[350px] space-y-2'>
-          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/TS7B1ai.png" alt="Finanzas personales" />
+          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/2p2ijCw.jpg" alt="Finanzas personales" />
           <p className='font-semibold text-gray-600'>Lorem ipsum dolor.</p>
           <h1 className='text-xl font-semibold'>$700</h1>
         </div>
         <div className='products h-[350px] space-y-2'>
-          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/TS7B1ai.png" alt="Finanzas personales" />
+          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/kafT6bP.jpg" alt="Finanzas personales" />
           <p className='font-semibold text-gray-600'>Lorem ipsum dolor.</p>
           <h1 className='text-xl font-semibold'>$700</h1>
         </div>
         <div className='products h-[350px] space-y-2'>
-          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/TS7B1ai.png" alt="Finanzas personales" />
+          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/DpTXhwn.jpg" alt="Finanzas personales" />
           <p className='font-semibold text-gray-600'>Lorem ipsum dolor.</p>
           <h1 className='text-xl font-semibold'>$700</h1>
         </div>
         <div className='products h-[350px] space-y-2'>
-          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/TS7B1ai.png" alt="Finanzas personales" />
+          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/2p2ijCw.jpg" alt="Finanzas personales" />
           <p className='font-semibold text-gray-600'>Lorem ipsum dolor.</p>
           <h1 className='text-xl font-semibold'>$700</h1>
         </div>
         <div className='products h-[350px] space-y-2'>
-          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/TS7B1ai.png" alt="Finanzas personales" />
+          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/kafT6bP.jpg" alt="Finanzas personales" />
           <p className='font-semibold text-gray-600'>Lorem ipsum dolor.</p>
           <h1 className='text-xl font-semibold'>$700</h1>
         </div>
         <div className='products h-[350px] space-y-2'>
-          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/TS7B1ai.png" alt="Finanzas personales" />
+          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/DpTXhwn.jpg" alt="Finanzas personales" />
           <p className='font-semibold text-gray-600'>Lorem ipsum dolor.</p>
           <h1 className='text-xl font-semibold'>$700</h1>
         </div>
         <div className='products h-[350px] space-y-2'>
-          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/TS7B1ai.png" alt="Finanzas personales" />
+          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/DpTXhwn.jpg" alt="Finanzas personales" />
           <p className='font-semibold text-gray-600'>Lorem ipsum dolor.</p>
           <h1 className='text-xl font-semibold'>$700</h1>
         </div>
         <div className='products h-[350px] space-y-2'>
-          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/TS7B1ai.png" alt="Finanzas personales" />
+          <img className='w-full h-4/5 object-cover' src="https://i.imgur.com/DpTXhwn.jpg" alt="Finanzas personales" />
           <p className='font-semibold text-gray-600'>Lorem ipsum dolor.</p>
           <h1 className='text-xl font-semibold'>$700</h1>
         </div>
       </div>
       <div className='w-full h-[300px] relative'>
-        <img className='w-full absolute top-0 rounded-xl h-full object-cover' src="https://i.imgur.com/WIvywCg.png" alt="" />
-        <div className='w-11/12 xl:w-1/2 m-auto h-full flex flex-col justify-center space-y-3 text-lime-400 p-5 absolute'>
+        <img className='w-full absolute top-0 rounded-xl h-full object-cover' src="https://i.imgur.com/0kUKnnF.jpg" alt="" />
+        <div className='w-11/12 xl:w-1/2 m-auto h-full flex flex-col justify-center space-y-3 p-5 absolute'>
           <h1 className='text-4xl text-semibold '>Lorem ipsum dolor</h1>
           <p>Lorem ipsum dolor.</p>
           <button className='w-28 bg-rose-400 p-2 text-black rounded-md'>See More...</button>

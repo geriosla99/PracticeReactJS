@@ -1,5 +1,4 @@
 import React from 'react'
-import { SlSocialTwitter } from "react-icons/sl";
 import { AiOutlineInstagram, AiOutlineWhatsApp, AiOutlineYoutube } from "react-icons/ai";
 
 export const Footer = () => {
